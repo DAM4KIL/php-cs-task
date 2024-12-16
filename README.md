@@ -1,4 +1,4 @@
-# SQL/CS TASK (Magic Door Adventure) - Adam K6
+# PHP/CS TASK (Magic Door Adventure) - Adam K6
 
 ## Introduction
 
