@@ -6,7 +6,7 @@ The primary goal of the website is to create an adventure game where users can c
 You should highlight the story elements, choices, and visual appeal of your adventure. Additionally, users of this website should be able to make choices and 
 see the consequences of their decisions directly through the website.
 
-This CS/PHP task will be assessed for 10% of CS marks in Test 2 Semeester 2 2024/2025. (FOUNDATION 1)
+This CS/PHP task will be assessed for 10% of CS marks in Test 2 Semester 2 2024/2025. (FOUNDATION 1)
 
 ## Instructions
 
